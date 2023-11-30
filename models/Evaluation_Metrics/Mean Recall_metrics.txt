@@ -1,0 +1,13 @@
+                      Model Name  Mean Recall
+         LgR & GS & All Features     0.967742
+      LgR & GS & Feat. Selection     0.967742
+           KNN & Feat. Selection     0.956989
+   Naive Bayes & Feat. Selection     0.956989
+ LgR & GS & No Multicollinearity     0.946909
+            LgR & All Steps + RS     0.946909
+              KNN & All Features     0.946909
+      Naive Bayes & All Features     0.946909
+               NN & All Features     0.946909
+Decision Trees & Feat. Selection     0.942101
+    Decision Tree & All Features     0.907448
+       NN & Overfitting Balanced     0.884409

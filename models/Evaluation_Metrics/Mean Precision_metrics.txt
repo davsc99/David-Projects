@@ -1,0 +1,13 @@
+                      Model Name  Mean Precision
+         LgR & GS & All Features        0.964132
+           KNN & Feat. Selection        0.956583
+              KNN & All Features        0.955357
+      Naive Bayes & All Features        0.955357
+      LgR & GS & Feat. Selection        0.954630
+ LgR & GS & No Multicollinearity        0.951412
+            LgR & All Steps + RS        0.951412
+    Decision Tree & All Features        0.950129
+   Naive Bayes & Feat. Selection        0.946703
+               NN & All Features        0.944524
+       NN & Overfitting Balanced        0.929915
+Decision Trees & Feat. Selection        0.909141

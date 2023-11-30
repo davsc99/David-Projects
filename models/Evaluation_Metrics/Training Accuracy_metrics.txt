@@ -1,0 +1,13 @@
+                      Model Name  Training Accuracy
+              KNN & All Features           1.000000
+           KNN & Feat. Selection           1.000000
+         LgR & GS & All Features           0.996835
+    Decision Tree & All Features           0.996835
+      LgR & GS & Feat. Selection           0.993671
+Decision Trees & Feat. Selection           0.990506
+ LgR & GS & No Multicollinearity           0.987342
+            LgR & All Steps + RS           0.981013
+      Naive Bayes & All Features           0.977848
+               NN & All Features           0.974684
+   Naive Bayes & Feat. Selection           0.962025
+       NN & Overfitting Balanced           0.917722

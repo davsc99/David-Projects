@@ -1,0 +1,17 @@
+Species,Island,CulmenLength,CulmenDepth,FlipperLength,BodyMass,Sex,Year
+Chinstrap,Biscoe,46.6,67.0,193.0,3800.0,,2007.0
+Chinstrap,Biscoe,55.8,19.8,207.0,4000.0,,2009.0
+Adelie,Dream,35.6,17.5,,3175.0,FEMALE,2009.0
+Adelie,Dream,42.3,21.2,,4150.0,MALE,2007.0
+Adelie,Torgersen,37.8,17.1,186.0,3300.0,,2007.0
+Gentoo,Biscoe,44.5,14.7,214.0,4850.0,,2009.0
+Chinstrap,Biscoe,43.5,,202.0,,FEMALE,2009.0
+Gentoo,Biscoe,51.3,,218.0,5300.0,MALE,2009.0
+Chinstrap,Biscoe,,16.5,189.0,3650.0,MALE,2009.0
+Adelie,Torgersen,34.1,18.1,193.0,3475.0,,2007.0
+Gentoo,Biscoe,,14.6,222.0,4875.0,MALE,2009.0
+Gentoo,Biscoe,52.2,17.1,,5400.0,MALE,2009.0
+,,,,,,,
+,,,,,,,
+Adelie,Dream,37.5,18.9,179.0,2975.0,,2007.0
+Adelie,Torgersen,42.5,20.7,,4500.0,MALE,2007.0

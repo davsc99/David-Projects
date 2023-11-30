@@ -1,0 +1,16 @@
+
+> **Citation**: The penguins dataset used in the this exercise is a subset of data collected and made available by [Dr. Kristen
+Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php)
+and the [Palmer Station, Antarctica LTER](https://pal.lternet.edu/), a
+member of the [Long Term Ecological Research
+Network](https://lternet.edu/).
+
+The dataset comprises information on penguins with the following features:
+- Species: Categorization of penguin species (e.g., Adelie).
+- Island: The geographical location or island where the penguin was observed.
+- CulmenLength: The length of the penguin's bill (culmen).
+- CulmenDepth: The depth of the penguin's bill (culmen).
+- FlipperLength: The length of the penguin's flipper.
+- BodyMass: The body mass of the penguin.
+- Sex: Gender of the penguin (e.g., MALE or FEMALE).
+- Year: The year the observation was recorded.

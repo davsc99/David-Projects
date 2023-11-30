@@ -1,0 +1,13 @@
+                      Model Name  Testing Accuracy
+         LgR & GS & All Features          0.965116
+      LgR & GS & Feat. Selection          0.965116
+ LgR & GS & No Multicollinearity          0.953488
+            LgR & All Steps + RS          0.953488
+              KNN & All Features          0.953488
+           KNN & Feat. Selection          0.953488
+      Naive Bayes & All Features          0.953488
+   Naive Bayes & Feat. Selection          0.953488
+               NN & All Features          0.953488
+    Decision Tree & All Features          0.930233
+Decision Trees & Feat. Selection          0.930233
+       NN & Overfitting Balanced          0.918605

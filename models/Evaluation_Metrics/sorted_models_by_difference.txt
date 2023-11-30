@@ -1,0 +1,17 @@
+Model Rankings based on the difference between Training and Testing Accuracy:
+------------------------------------------------------------
+| Model Name                               | Difference |
+|------------------------------------------|-------------|
+| NN & Overfitting Balanced                |    0.000883 |
+| Naive Bayes & Feat. Selection            |    0.008537 |
+| NN & All Features                        |    0.021195 |
+| Naive Bayes & All Features               |    0.024360 |
+| LgR & All Steps + RS                     |    0.027524 |
+| LgR & GS & Feat. Selection               |    0.028555 |
+| LgR & GS & All Features                  |    0.031719 |
+| LgR & GS & No Multicollinearity          |    0.033853 |
+| KNN & All Features                       |    0.046512 |
+| KNN & Feat. Selection                    |    0.046512 |
+| Decision Trees & Feat. Selection         |    0.060274 |
+| Decision Tree & All Features             |    0.066603 |
+------------------------------------------------------------

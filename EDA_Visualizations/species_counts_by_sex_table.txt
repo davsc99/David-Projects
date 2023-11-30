@@ -1,0 +1,4 @@
+Species	FEMALE	MALE
+Adelie	49	50
+Chinstrap	24	23
+Gentoo	46	40

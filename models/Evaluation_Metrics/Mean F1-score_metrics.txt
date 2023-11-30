@@ -1,0 +1,13 @@
+                      Model Name  Mean F1-score
+         LgR & GS & All Features       0.964617
+      LgR & GS & Feat. Selection       0.959224
+           KNN & Feat. Selection       0.954565
+              KNN & All Features       0.949872
+      Naive Bayes & All Features       0.949872
+   Naive Bayes & Feat. Selection       0.949070
+ LgR & GS & No Multicollinearity       0.948611
+            LgR & All Steps + RS       0.948611
+               NN & All Features       0.944414
+    Decision Tree & All Features       0.924734
+Decision Trees & Feat. Selection       0.919399
+       NN & Overfitting Balanced       0.901770

@@ -1,0 +1,10 @@
+Model5 Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.88      0.97      0.93        39
+         1.0       1.00      0.81      0.90        16
+         2.0       0.97      0.94      0.95        31
+
+    accuracy                           0.93        86
+   macro avg       0.95      0.91      0.92        86
+weighted avg       0.94      0.93      0.93        86

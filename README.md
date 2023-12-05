@@ -4,6 +4,14 @@
 
 ==============================
 
+---
+
+Explore a concise overview of the project [here](https://sucologiqsolutions.com/multiclass-classification-project/).
+
+Feel free to review the details.
+
+---
+
 ## Project Overview
 This project aims to develop a robust statistical learning model for multiclass classification of penguins, leveraging key morphological features. The primary objective is to comprehensively train on all models covered in class, even with the intentional introduction of NA (Not Available) values and outliers for increased complexity and real-world simulation.
 

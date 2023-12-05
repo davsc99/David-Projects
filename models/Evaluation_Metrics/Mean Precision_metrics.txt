@@ -1,5 +1,7 @@
                       Model Name  Mean Precision
+           SVM & Feat. Selection        0.972059
          LgR & GS & All Features        0.964132
+              SVM & All Features        0.964132
            KNN & Feat. Selection        0.956583
               KNN & All Features        0.955357
       Naive Bayes & All Features        0.955357

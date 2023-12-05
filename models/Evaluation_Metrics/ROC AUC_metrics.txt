@@ -1,11 +1,13 @@
                       Model Name  ROC AUC
            KNN & Feat. Selection 0.997025
+              SVM & All Features 0.990333
+           SVM & Feat. Selection 0.987831
             LgR & All Steps + RS 0.982626
  LgR & GS & No Multicollinearity 0.982355
    Naive Bayes & Feat. Selection 0.977961
     Decision Tree & All Features 0.977623
       LgR & GS & Feat. Selection 0.973026
-         LgR & GS & All Features 0.972756
+         LgR & GS & All Features 0.972688
                NN & All Features 0.971721
        NN & Overfitting Balanced 0.968447
       Naive Bayes & All Features 0.965116

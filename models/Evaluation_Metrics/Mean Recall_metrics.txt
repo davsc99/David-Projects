@@ -1,6 +1,8 @@
                       Model Name  Mean Recall
+           SVM & Feat. Selection     0.978495
          LgR & GS & All Features     0.967742
       LgR & GS & Feat. Selection     0.967742
+              SVM & All Features     0.967742
            KNN & Feat. Selection     0.956989
    Naive Bayes & Feat. Selection     0.956989
  LgR & GS & No Multicollinearity     0.946909

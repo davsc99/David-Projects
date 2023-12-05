@@ -1,5 +1,7 @@
                       Model Name  Mean F1-score
+           SVM & Feat. Selection       0.974568
          LgR & GS & All Features       0.964617
+              SVM & All Features       0.964617
       LgR & GS & Feat. Selection       0.959224
            KNN & Feat. Selection       0.954565
               KNN & All Features       0.949872

@@ -1,6 +1,8 @@
                       Model Name  Testing Accuracy
+           SVM & Feat. Selection          0.976744
          LgR & GS & All Features          0.965116
       LgR & GS & Feat. Selection          0.965116
+              SVM & All Features          0.965116
  LgR & GS & No Multicollinearity          0.953488
             LgR & All Steps + RS          0.953488
               KNN & All Features          0.953488

@@ -1,9 +1,11 @@
                       Model Name  Training Accuracy
+              SVM & All Features           1.000000
               KNN & All Features           1.000000
            KNN & Feat. Selection           1.000000
          LgR & GS & All Features           0.996835
     Decision Tree & All Features           0.996835
       LgR & GS & Feat. Selection           0.993671
+           SVM & Feat. Selection           0.993671
 Decision Trees & Feat. Selection           0.990506
  LgR & GS & No Multicollinearity           0.987342
             LgR & All Steps + RS           0.981013
